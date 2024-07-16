@@ -1,4 +1,4 @@
-# Data-Analysis-On-Diwali-Sales-Data
+# Diwali Sales Analysis
 
 ## Project Overview
 
