@@ -43,29 +43,19 @@ The dataset used for this analysis includes sales transactions during the Diwali
  
 ## Methodology
 
-### *Data Cleaning: Handle missing values, remove duplicates, and correct data types*
+- Data Cleaning: Handle missing values, remove duplicates, and correct data types
 
-### *Data Exploration:*
+ - Data Exploration
 
-Univariate Analysis: Distribution of individual variables.
-
-Bivariate Analysis: Relationships between pairs of variables.
-
-Multivariate Analysis: Relationships between multiple variables.
-
-### *Visualization: Use various plots (histograms, bar charts, line graphs, scatter plots, heatmaps) to visualize the data and uncover insights.*
-
-Descriptive Statistics: Calculate mean, median, mode, standard deviation, etc., to summarize the data.
-
-Hypothesis Testing: Conduct statistical tests to validate assumptions and hypotheses.
+ - Visualization: Use various plots (histograms, bar charts, line graphs, scatter plots) to visualize the data and uncover insights.*
 
 ## Tools and Technologies
 
-Python: For data analysis and visualization (libraries such as Pandas, NumPy, Matplotlib, Seaborn).
+- Python: For data analysis and visualization (libraries such as Pandas, NumPy, Matplotlib, Seaborn).
 
-Jupyter Notebook: For interactive data exploration and visualization.
+- Jupyter Notebook: For interactive data exploration and visualization.
 
-Excel/CSV Files: For storing and manipulating the dataset.
+- Excel/CSV Files: For storing and manipulating the dataset.
 
 ## Expected Outcomes
 
